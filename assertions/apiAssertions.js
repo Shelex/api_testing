@@ -9,7 +9,7 @@ module.exports = {
         await expect(res.statusText).to.equal('OK')
     },
 
-    validateInfoSchema: async function (res) {
+    InfoSchema: async function (res) {
         chai.assert.jsonSchema(res.data, schema.info)
     }
 
