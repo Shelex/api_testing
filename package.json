@@ -1,0 +1,30 @@
+{
+  "name": "api_testing",
+  "version": "1.0.0",
+  "description": "api testing nodejs",
+  "main": "index.js",
+  "directories": {
+    "test": "_test_"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shelex/api_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shelex/api_testing/issues"
+  },
+  "homepage": "https://github.com/Shelex/api_testing#readme",
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "axios-actions": "^4.0.0",
+    "chai": "^4.2.0",
+    "chai-json-schema": "^1.5.0",
+    "lodash": "^4.17.11",
+    "mocha": "^5.2.0"
+  }
+}
