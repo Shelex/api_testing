@@ -1,5 +1,4 @@
 let api = require('../api/hsApi')
-let expect = require('chai').expect
 let assert = require('../assertions/apiAssertions')
 
 describe('Get info', async function() {
