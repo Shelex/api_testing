@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/Shelex/api_testing#readme",
   "devDependencies": {
-    "axios": "^0.18.0",
-    "axios-actions": "^4.0.0",
+    "axios": "^0.19.0",
+    "axios-actions": "^4.0.2",
     "chai": "^4.2.0",
-    "chai-json-schema": "^1.5.0",
-    "lodash": "^4.17.11",
-    "mocha": "^5.2.0"
+    "chai-json-schema": "^1.5.1",
+    "lodash": "^4.17.15",
+    "mocha": "^6.2.2"
   }
 }
